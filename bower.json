@@ -1,0 +1,18 @@
+{
+  "name": "hello-ng-material",
+  "version": "0.0.0",
+  "authors": [
+    "alexanderfield"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.10.1"
+  }
+}
